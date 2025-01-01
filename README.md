@@ -7,7 +7,6 @@ Inspired by the course from [Nomad Coders](https://nomadcoders.co).
 
 ## Features  
 - Fully responsive design  
-- Pixel-perfect replication of KokoaTalk  
 - Pure HTML and CSS (no JavaScript)  
 
 ## Getting Started  
